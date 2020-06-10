@@ -64,6 +64,8 @@ Requires
 
 For more information on Deep Learning in MATLAB
 -------------
+[![View Social-Distancing-Monitoring-System on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://kr.mathworks.com/matlabcentral/fileexchange/76760-social-distancing-monitoring-system)
+
 **[Download a free MATLAB trial for Deep Learning](https://www.mathworks.com/products/deep-learning.html)**
 
 
